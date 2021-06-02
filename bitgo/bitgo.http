@@ -1,0 +1,20 @@
+GET https://app.bitgo.com/api/v2/user/me
+Accept: application/json
+Authorization: Bearer v2xa2b527889e6633f875b5a3507ba5b217cbbbcde3d2bced73fe4b6ce713548839
+
+
+###
+
+GET https://app.bitgo.com/api/v2/enterprise
+Accept: application/json
+Authorization: Bearer v2xa2b527889e6633f875b5a3507ba5b217cbbbcde3d2bced73fe4b6ce713548839
+
+
+###
+
+GET https://app.bitgo.com/api/prime/trading/v1/accounts
+Accept: application/json
+Authorization: Bearer v2xa2b527889e6633f875b5a3507ba5b217cbbbcde3d2bced73fe4b6ce713548839
+
+
+###

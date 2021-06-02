@@ -1,0 +1,26 @@
+GET https://app.bitgo-test.com/api/v1/client/constants
+Accept: application/json
+
+
+###
+
+GET https://app.bitgo-test.com/api/v2/user/me
+Accept: application/json
+Authorization: Bearer b2504494e7add3bf9b4113171ec3d95e2898f1d67b743fea89af4a51688175fb
+
+
+###
+
+GET https://app.bitgo-test.com/api/v2/enterprise
+Accept: application/json
+Authorization: Bearer b2504494e7add3bf9b4113171ec3d95e2898f1d67b743fea89af4a51688175fb
+
+
+###
+
+GET https://app.bitgo-test.com/api/prime/trading/v1/accounts
+Accept: application/json
+Authorization: Bearer b2504494e7add3bf9b4113171ec3d95e2898f1d67b743fea89af4a51688175fb
+
+
+###

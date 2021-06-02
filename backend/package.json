@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --inspect=0.0.0.0 server.js"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "dependencies": {
+    "@koa/router": "^10.0.0",
+    "bitgo": "^11.14.0",
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "moment": "^2.29.1",
+    "mongodb": "^3.6.3",
+    "shortid": "^2.2.16"
+  },
+  "keywords": [],
+  "description": ""
+}
